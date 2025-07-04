@@ -1,7 +1,18 @@
-git remote add origin https://github.com/Venkata-Manoj/VibeLearn-AI.git
-git branch -M main
-git push -u origin main# Firebase Studio
+# 🌐 My Vibe-Learn Website
 
-This is a NextJS starter in Firebase Studio.
+This is a modern, responsive web application built using **Next.js**, **Tailwind CSS**, and **TypeScript**, designed for performance, scalability, and clean code practices.
 
-To get started, take a look at src/app/page.tsx.
+
+---
+
+## 🚀 Features
+
+- ✅ Fully responsive layout
+- 🎨 Styled with Tailwind CSS
+- ⚡ Fast builds using Next.js App Router
+- 🔒 Environment variable support via `.env`
+- ✨ Component-based structure with `src/`
+- ☁️ Vercel-ready deployment setup
+- 🛠️ TypeScript for type safety
+
+---  
